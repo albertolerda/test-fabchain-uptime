@@ -6,7 +6,7 @@ sites:
   - name: Fabchain
     url: http://www.fabchain.net
   - name: api
-    url: 78.47.38.223
+    url: http://78.47.38.223:8545
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
